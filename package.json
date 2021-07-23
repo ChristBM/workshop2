@@ -1,4 +1,5 @@
 {
+  "homepage": "https://christbm.github.io/workshop2",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
